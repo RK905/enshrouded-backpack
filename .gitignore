@@ -1,0 +1,9 @@
+backups/
+error.log
+__pycache__/
+testdata/
+engine/data/icons/
+build/
+dist/
+node.exe
+*.spec
